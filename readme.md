@@ -1,7 +1,9 @@
-#BRANCH
-1. ramas
-2. git branch : crear nuevas ramas
-3. git checkout : traspoasarse a la rama
-4. git checkout -b : crea y traspasarse a la vez
-5. git merge *nombre de rama a la que voy a subir los cambios"
-6. git branch -d "nombre de la rama que se va a borrar"
+#ETIQUETAS SEMANTICAS HTML
+
+1. HEADER: contenido introductorio del ancestro mas cercano
+2. FOOTER: para poner pie de pagina a una seccion de contenido
+3. NAV: navegacion para menus
+4. SECTION: seccion o divicion del contenido
+5. ARTICLE: contenido independiente, pero completo
+6. ASIDE: contenido relacionado 
+7. MAIN: contenido principal de la pagina
